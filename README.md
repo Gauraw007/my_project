@@ -1,4 +1,4 @@
-# my_project
+# Live Location Tracker Using Flutter
 
 A new Flutter project.
 
